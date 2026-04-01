@@ -6,6 +6,7 @@
 
 
 
+
 streamlit
 requests
 beautifulsoup4
